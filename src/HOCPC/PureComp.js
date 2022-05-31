@@ -12,7 +12,6 @@ class PureComp extends React.PureComponent {
       return(
     <>
         <h1>Pure Components : {this.state.count}</h1>
-        <h1></h1>
         <button onClick={() => {this.setState({count:this.state.count+1})}}>Update State</button>
     </>
       )
