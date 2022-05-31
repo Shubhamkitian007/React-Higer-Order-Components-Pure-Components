@@ -1,0 +1,27 @@
+.hoc{
+    background-color: #323030;
+    display: flex;
+    justify-content: center;
+    padding: 20px 50px;
+    margin: 20px 50px;
+}
+
+.btn1{
+    width: 8rem;
+    height: 2.5rem;
+    margin: 15px 10px;
+    color: rgba(208, 8, 8, 0.907);
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.btn2{
+    width: 8rem;
+    height: 2.5rem;
+    margin: 15px 10px;
+    color: rgba(108, 8, 8, 0.907);
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 5px;
+}
